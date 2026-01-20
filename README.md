@@ -5,7 +5,7 @@ Full-stack developer focused on Laravel backends, Vue/Nuxt frontends, and Node.j
 - Build REST APIs with Laravel (Auth, Roles/Permissions, Payments, CRUD)
 - Build fast admin dashboards with Vue.js
 - Build Node.js services for jobs/queues, crawlers, automation
-- API integrations** and custom plugins
+- API integrations and custom plugins
 - Performance optimization and clean code
 
 ## 🛠️ Tech Stack
