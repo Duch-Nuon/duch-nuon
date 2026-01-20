@@ -5,6 +5,8 @@ Full-stack developer focused on Laravel backends, Vue/Nuxt frontends, and Node.j
 - Build REST APIs with Laravel (Auth, Roles/Permissions, Payments, CRUD)
 - Build fast admin dashboards with Vue.js
 - Build Node.js services for jobs/queues, crawlers, automation
+- API integrations** and custom plugins
+- Performance optimization and clean code
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +25,6 @@ Full-stack developer focused on Laravel backends, Vue/Nuxt frontends, and Node.j
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
