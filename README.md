@@ -31,5 +31,6 @@ Full-stack developer focused on Laravel backends, Vue/Nuxt frontends, and Node.j
 ### Testing
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=phpunit&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-FF4D6D?style=for-the-badge&logo=pestphp&logoColor=white)
-<img src="https://playwright.dev/img/playwright-logo.svg" height="28" />
+![Playwright](https://badgen.net/badge/Playwright/Testing/45ba4b?icon=https://playwright.dev/img/playwright-logo.svg&label)
+
 
