@@ -1,4 +1,4 @@
-# Hi, I’m Moon (Duch-Nuon) 👋
+# Hi, I’m Duch-Nuon 👋
 Full-stack developer focused on Laravel backends, Vue/Nuxt frontends, and Node.js services.
 
 ## What I do
