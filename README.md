@@ -6,17 +6,25 @@ Full-stack developer focused on Laravel backends, Vue/Nuxt frontends, and Node.j
 - Build fast admin dashboards with Vue.js
 - Build Node.js services for jobs/queues, crawlers, automation
 
-## Tech Stack
-- Backend: Laravel, Node.js (Express / NestJS)
-- Frontend: Vue.js, Nuxt.js
-- DB: MySQL, PostgreSQL
-- DevOps: Docker, Nginx
-- Testing: PHPUnit/Pest, Playwright
+## 🛠️ Tech Stack
 
-## Featured Projects
-- Laravel Khmer PDF Package (mPDF Khmer Support)
-- Vue Frontend Blog
-- (New) Full Stack App: Laravel API + Vue UI + Node Worker
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
-📍 Phnom Penh, Cambodia  
-🔗 LinkedIn: https://www.linkedin.com/in/duch-nuon-0519991a9
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
