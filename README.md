@@ -28,4 +28,7 @@ Full-stack developer focused on Laravel backends, Vue/Nuxt frontends, and Node.j
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+### Testing
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-FF4D6D?style=for-the-badge&logo=laravel&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
