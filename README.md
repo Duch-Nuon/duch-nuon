@@ -7,6 +7,7 @@ Full-stack developer focused on Laravel backends, Vue/Nuxt frontends, and Node.j
 - Build Node.js services for jobs/queues, crawlers, automation
 - API integrations and custom plugins
 - Performance optimization and clean code
+- Automated Testing with Playwright
 
 ## 🛠️ Tech Stack
 
